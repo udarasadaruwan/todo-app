@@ -4,7 +4,8 @@ A simple yet effective To-Do app built with React and TypeScript. Users can add,
 
 ## 📸 Preview
 ![App Screenshot]
-<img src="/todo-app-img.jpeg" alt="App Screenshot" />
+<img src={`${import.meta.env.BASE_URL}todo-app-img.jpeg`} alt="App Screenshot" />
+
 
 
 ## 🚀 Live Demo
