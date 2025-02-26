@@ -3,7 +3,9 @@
 A simple yet effective To-Do app built with React and TypeScript. Users can add, complete, and remove tasks easily.
 
 ## 📸 Preview
-![App Screenshot](./assets/todo-app-img.jpeg)
+![App Screenshot]
+<img src="/todo-app-img.jpeg" alt="App Screenshot" />
+
 
 ## 🚀 Live Demo
 [Click here to try the app](your-live-link-here)
