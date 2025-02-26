@@ -8,7 +8,7 @@ A simple yet effective To-Do app built with React and TypeScript. Users can add,
 
 
 ## 🚀 Live Demo
-[Click here to try the app](your-live-link-here)
+[Click here to try the app](https://udarasadaruwan.github.io/todo-app/)
 
 ## 📌 Features
 - Add new tasks 📌
