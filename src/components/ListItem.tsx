@@ -3,9 +3,9 @@ import React from "react";
 
 interface TaskListProps {
     title: string; // Title of the list (e.g., "Pending Tasks")
-    tasks: { id: string; text: string; completed: boolean }[]; // List of tasks
-    onToggleComplete: (id: string) => void; // Function to toggle completion
-    onRemoveTask: (id: string) => void; // Function to remove a task
+    tasks: { id: string; text: string; completed: boolean }[];
+    onToggleComplete: (id: string) => void;
+    onRemoveTask: (id: string) => void;
 }
 
 const TaskList: React.FC<TaskListProps> = ({
